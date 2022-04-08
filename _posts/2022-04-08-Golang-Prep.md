@@ -67,6 +67,7 @@ for [condition |  ( init; condition; increment ) | Range]
    //more statements
 }  
 ```
+
 The for loop works as follows:
 - The `init` steps gets executed first. This is executed only once at the beginning of the loop. This is done for declaring and initializing the loop control variables. This field is optional as long as we have initialized the loop control variables before. If we are not doing anything here, the semicolon needs to be present.
 - The `condition` is then evaluated. If the condition is satisfied, the loop body is executed.
@@ -74,6 +75,8 @@ The for loop works as follows:
   - If the condition is satisfied and the loop body is executed, then the control goes back to the increment statement which updated the loop control variables. The condition is evaluated again and the process repeats until the condition becomes false.
 - If the `Range` is mentioned, then the loop is executed for each item in that Range.
 Consider an example for `for` loop. The following code prints numbers from 1 to 5.
+
+
 ```
 package main
 
@@ -88,11 +91,13 @@ func main() {
 }
 ```
 
+
 ## 8. What do you understand by the scope of the variables in Go?
 The variable scope is defined as the part of the program where the variable can be accessed. Every variable is statically scoped (meaning a variable scope can be identified at compile time) in Go which means that the scope is declared at the time of compilation itself. There are two scopes in Go, they are:
 
 - Local Variables: These are declared inside a function or a block and is accessible only within these entities.
 - Global Variables: These are declared outside function or block and is accessible by the whole source file.
+
 
 ## 9. What do you understand by Go routines in Golang?
 A goroutine is nothing but a function in Golang that usually runs concurrently or parallelly with other functions. They can be imagined as a lightweight thread that has independent execution and can run concurrently with other routines. Goroutines are entirely managed by Go Runtime. Goroutines help Golang achieve concurrency.
@@ -100,6 +105,8 @@ A goroutine is nothing but a function in Golang that usually runs concurrently o
 
 - In Golang, the main function of the main package is considered the main goroutine. It is the starting point of all other goroutines. These goroutines have the power to start their goroutines. Once the execution of the main goroutine is complete, it means that the program has been completed.
 - We can start a goroutine by just specifying the ```go``` keyword before the method call. The method will now be called and run as a goroutine. Consider an example below:
+
+
 ```
 package main
 import (
@@ -144,17 +151,21 @@ func main(){
     fmt.Println(val1, val2)
 }
 ```
+
 In the above example, we have a function reverseValues which simply returns the inputs in reverse order. In the main goroutine, we call the reverseValues function and the values are assigned to values val1 and val2 in one statement. The output of the code would be:
+
 ```
 bit interview
 ```
 
 ## 11. Is it possible to declare variables of different types in a single line of code in Golang?
 Yes, this can be achieved by writing as shown below:
+
 ```
 var a,b,c= 9, 7.1, "interviewbit"
 
 ```
+
 Here, we are assigning values of a type Integer number, Floating-Point number and string to the three variables in a single line of code.
 
 
@@ -199,7 +210,9 @@ Sliced Array: [is a Go]
 Length of the slice: 3
 The capacity of the slice: 5
 ```
+
 Here, we are trying to slice the array to get only the first 3 words starting from the word at the first index from the original array. Then we are finding the length of the slice and the capacity of the slice. The output of the above code would be:
+
 
 ```
 Original Array: [This is a Go interview question ]
@@ -208,12 +221,14 @@ Length of the slice: 3
 The capacity of the slice: 5
 
 ```
+
 ## 13. What are Go Interfaces?
 Go interfaces are those that have a defined set of method signatures. It is a custom type who can take values that has these methods implementation. The interfaces
 are abstract which is why we cannot create its instance. But we can create a variable of type interface and that variable can then be assigned to a concrete value that has methods required by the interface. Due to these reasons, an interface can act as two things:
 - Collection of method signatures.
 - Custom types
 They are created using the ```type``` keyword followed by the name needed for the interface and finally followed by the keyword interface. The syntax goes as follows:
+
 ```
 type name_of_interface interface {
 	// Method Signatures
@@ -231,6 +246,7 @@ type golangInterfaceDemo interface{
 }
 
 ```
+
 Interface also promotes abstraction. In Golang, we can use interfaces for creating common abstractions which can be used by multiple types by defining method declarations that are compatible with the interface. Conside the following example:
 
 
