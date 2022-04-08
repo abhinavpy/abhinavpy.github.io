@@ -208,5 +208,108 @@ Length of the slice: 3
 The capacity of the slice: 5
 
 ```
+## 13. What are Go Interfaces?
+Go interfaces are those that have a defined set of method signatures. It is a custom type who can take values that has these methods implementation. The interfaces
+are abstract which is why we cannot create its instance. But we can create a variable of type interface and that variable can then be assigned to a concrete value that has methods required by the interface. Due to these reasons, an interface can act as two things:
+- Collection of method signatures.
+- Custom types
+They are created using the ```type``` keyword followed by the name needed for the interface and finally followed by the keyword interface. The syntax goes as follows:
+```
+type name_of_interface interface {
+	// Method Signatures
+}
+```
+
+Consider an example of creating an interface of the name “golangInterfaceDemo” having two methods demo_func1() and demo_func2(). The interface will be defined as:
+
+```
+// Create an interface
+type golangInterfaceDemo interface{
+    // Methods
+    demo_func1() int
+    demo_func2() float64
+}
+
+```
+Interface also promotes abstraction. In Golang, we can use interfaces for creating common abstractions which can be used by multiple types by defining method declarations that are compatible with the interface. Conside the following example:
+
+
+```
+package main
+ 
+import "fmt"
+ 
+// "Triangle" data type
+type Triangle struct {
+	base, height float32
+}
+ 
+// "Square" data type
+type Square struct {
+	length float32
+}
+ 
+// "Rectangle" data type
+type Rectangle struct {
+	length, breadth float32
+}
+ 
+// To calculate area of triangle
+func (triangle Triangle) Area() float32 {
+	return 0.5 * triangle.base * triangle.height
+}
+ 
+// To calculate area of square
+func (square Square) Area() float32 {
+	return square.length * square.length
+}
+ 
+// To calculate area of rectangle
+func (rect Rectangle) Area() float32 {
+	return rect.length * rect.breadth
+}
+ 
+// Area interface for achieving abstraction
+type Area interface {
+	Area() float32
+}
+ 
+func main() {
+	// Declare and assign values to varaibles
+	triangleObject := Triangle{base: 20, height: 10}
+	squareobject := Square{length: 25}
+	rectObject := Rectangle{length: 15, breadth: 20}
+ 
+	// Define a variable of type interface
+	var shapeObject Area
+ 
+	// Assign to "Triangle" type variable to the Area interface
+	shapeObject = triangleObject
+	fmt.Println("Triangle Area = ", shapeObject.Area())
+ 
+	// Assign to "Square" type variable to the Area interface
+	shapeObject = squareobject
+	fmt.Println("Square Area = ", shapeObject.Area())
+ 
+	// Assign to "Rectangle" type variable to the Area interface
+	shapeObject = rectObject
+	fmt.Println("Rectangle Area = ", shapeObject.Area())
+}
+```
+
+In the above example, we have created 3 types for the shapes triangle, square and rectangle. We have also defined 3 Area() functions that calculate the area of the shapes based on the input object type passed. We have also defined an interface named Area and we have defined the method signature Area() within it. In the main function, we are creating the objects, assigning each object to the interface and calculating the area by calling the method declared in the interface. Here, we need not know specifically about the function that needs to be called. The interface method will take care of this considering the object type. This is called abstraction. The output of the above code will be:
+
+```
+Triangle Area =  100
+Square Area =  625
+Rectangle Area =  300
+```
+
+## 14. Why is Golang fast compared to other languages?
+Golang is faster than other programming languages because of its simple and efficient memory management and concurrency model. The compilation process to machine code is very fast and efficient. Additionally, the dependencies are linked to a single binary file thereby putting off dependencies on servers.
+
+## 15. How can we check if the Go map contains a key?
+A map, in general, is a collection of elements grouped in key-value pairs. One key refers to one value. Maps provide faster access in terms of O(1) complexity to the values if the key is known. 
+![15Image] (https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/001/748/original/How_can_we_check_if_the_Go_map_contains_a_key.png?1637335439)
 
 
