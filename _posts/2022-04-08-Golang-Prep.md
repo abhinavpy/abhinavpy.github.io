@@ -58,3 +58,155 @@ String literals are those variables storing string constants that can be a singl
 - Interpreted string literals: Here, the character sequences are enclosed in double quotes. The value may or may not have new lines. For example: "Interviewbit Website"
 
 ## 7. What is the syntax used for the loop in Golang? Explain.
+Go language follows the below syntax for implementing for loop.
+
+```
+for [condition |  ( init; condition; increment ) | Range]  
+{  
+   statement(s);  
+   //more statements
+}  
+```
+The for loop works as follows:
+- The `init` steps gets executed first. This is executed only once at the beginning of the loop. This is done for declaring and initializing the loop control variables. This field is optional as long as we have initialized the loop control variables before. If we are not doing anything here, the semicolon needs to be present.
+- The `condition` is then evaluated. If the condition is satisfied, the loop body is executed.
+  - If the condition is not satisfied, the control flow goes to the next statement after the for loop.
+  - If the condition is satisfied and the loop body is executed, then the control goes back to the increment statement which updated the loop control variables. The condition is evaluated again and the process repeats until the condition becomes false.
+- If the `Range` is mentioned, then the loop is executed for each item in that Range.
+Consider an example for `for` loop. The following code prints numbers from 1 to 5.
+```
+package main
+
+import "fmt"
+
+func main() {
+    // For loop to print numbers from 1 to 5
+    for j := 1; j <= 5; j++ {
+        fmt.Println(j)
+    }
+
+}
+```
+
+## 8. What do you understand by the scope of the variables in Go?
+The variable scope is defined as the part of the program where the variable can be accessed. Every variable is statically scoped (meaning a variable scope can be identified at compile time) in Go which means that the scope is declared at the time of compilation itself. There are two scopes in Go, they are:
+
+- Local Variables: These are declared inside a function or a block and is accessible only within these entities.
+- Global Variables: These are declared outside function or block and is accessible by the whole source file.
+
+## 9. What do you understand by Go routines in Golang?
+A goroutine is nothing but a function in Golang that usually runs concurrently or parallelly with other functions. They can be imagined as a lightweight thread that has independent execution and can run concurrently with other routines. Goroutines are entirely managed by Go Runtime. Goroutines help Golang achieve concurrency.
+
+
+- In Golang, the main function of the main package is considered the main goroutine. It is the starting point of all other goroutines. These goroutines have the power to start their goroutines. Once the execution of the main goroutine is complete, it means that the program has been completed.
+- We can start a goroutine by just specifying the ```go``` keyword before the method call. The method will now be called and run as a goroutine. Consider an example below:
+```
+package main
+import (
+    "fmt"
+    "time"
+)
+func main() {
+    go sampleRoutine()
+    fmt.Println("Started Main")
+    time.Sleep(1 * time.Second)
+    fmt.Println("Finished Main")
+}
+
+func sampleRoutine() {
+    fmt.Println("Inside Sample Goroutine")
+}
+```
+
+In this code, we see that the sampleRoutine() function is called by specifying the keyword go before it. When a function is called a goroutine, the call will be returned immediately to the next line of the program statement which is why “Started Main” would be printed first and the goroutine will be scheduled and run concurrently in the background. The sleep statement ensures that the goroutine is scheduled before the completion of the main goroutine. The output of this code would be:
+
+```
+Started Main
+Inside Sample Goroutine
+Finished Main
+```
+
+## 10. Is it possible to return multiple values from a function in Go?
+Yes. Multiple values can be returned in Golang by sending comma-separated values with the return statement and by assigning it to multiple variables in a single statement as shown in the example below:
+
+```
+package main
+import (
+	"fmt"
+)
+
+func reverseValues(a,b string)(string, string){
+    return b,a    //notice how multiple values are returned
+}
+
+func main(){
+    val1,val2:= reverseValues("interview","bit")    // notice how multiple values are assigned
+    fmt.Println(val1, val2)
+}
+```
+In the above example, we have a function reverseValues which simply returns the inputs in reverse order. In the main goroutine, we call the reverseValues function and the values are assigned to values val1 and val2 in one statement. The output of the code would be:
+```
+bit interview
+```
+
+## 11. Is it possible to declare variables of different types in a single line of code in Golang?
+Yes, this can be achieved by writing as shown below:
+```
+var a,b,c= 9, 7.1, "interviewbit"
+
+```
+Here, we are assigning values of a type Integer number, Floating-Point number and string to the three variables in a single line of code.
+
+
+## 12. What is "slice" in Go?
+Slice in Go is a lightweight data structure of variable length sequence for storing homogeneous data. It is more convenient, powerful and flexible than an array in Go. Slice has 3 components:
+
+- Pointer: This is used for pointing to the first element of the array accessible via slice. The element doesn’t need to be the first element of the array.
+- Length: This is used for representing the total elements count present in the slice.
+- Capacity: This represents the capacity up to which the slice can expand.
+
+For example: Consider an array of name arr having the values “This”,“is”, “a”,“Go”,“interview”,“question”.
+
+```
+package main
+ 
+import "fmt"
+ 
+func main() {
+ 
+    // Creating an array
+    arr := [6]string{"This","is", "a","Go","interview","question"}
+ 
+    // Print array
+    fmt.Println("Original Array:", arr)
+ 
+    // Create a slice
+    slicedArr := arr[1:4]
+ 
+    // Display slice
+    fmt.Println("Sliced Array:", slicedArr)
+ 
+    // Length of slice calculated using len()
+    fmt.Println("Length of the slice: %d", len(slicedArr))
+ 
+    // Capacity of slice calculated using cap()
+    fmt.Println("Capacity of the slice: %d", cap(slicedArr))
+}
+Here, we are trying to slice the array to get only the first 3 words starting from the word at the first index from the original array. Then we are finding the length of the slice and the capacity of the slice. The output of the above code would be:
+
+Original Array: [This is a Go interview question ]
+Sliced Array: [is a Go]
+Length of the slice: 3
+The capacity of the slice: 5
+```
+Here, we are trying to slice the array to get only the first 3 words starting from the word at the first index from the original array. Then we are finding the length of the slice and the capacity of the slice. The output of the above code would be:
+
+```
+Original Array: [This is a Go interview question ]
+Sliced Array: [is a Go]
+Length of the slice: 3
+The capacity of the slice: 5
+
+```
+
+
