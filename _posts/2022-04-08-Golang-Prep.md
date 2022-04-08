@@ -69,13 +69,11 @@ for [condition |  ( init; condition; increment ) | Range]
 ```
 
 The for loop works as follows:
-- The `init` steps gets executed first. This is executed only once at the beginning of the loop. This is done for declaring and initializing the loop control variables. This field is optional as long as we have initialized the loop control variables before. If we are not doing anything here, the semicolon needs to be present.
-- The `condition` is then evaluated. If the condition is satisfied, the loop body is executed.
+- The init steps gets executed first. This is executed only once at the beginning of the loop. This is done for declaring and initializing the loop control variables. This field is optional as long as we have initialized the loop control variables before. If we are not doing anything here, the semicolon needs to be present.
+- The condition is then evaluated. If the condition is satisfied, the loop body is executed.
   - If the condition is not satisfied, the control flow goes to the next statement after the for loop.
-  - If the condition is satisfied and the loop body is executed, then the control goes back to the increment statement which updated the loop control variables. The condition is evaluated again and the process repeats until the condition becomes false.
-- If the `Range` is mentioned, then the loop is executed for each item in that Range.
-Consider an example for `for` loop. The following code prints numbers from 1 to 5.
-
+  - If the condition is satisfied and the loop body is executed, then the control goes back to the increment statement which updated the loop control variables. The condition is evaluated again and the process repeats until the condition becomes false. 
+- If the Range is mentioned, then the loop is executed for each item in that Range.
 
 ```
 package main
@@ -87,10 +85,8 @@ func main() {
     for j := 1; j <= 5; j++ {
         fmt.Println(j)
     }
-
 }
 ```
-
 
 ## 8. What do you understand by the scope of the variables in Go?
 The variable scope is defined as the part of the program where the variable can be accessed. Every variable is statically scoped (meaning a variable scope can be identified at compile time) in Go which means that the scope is declared at the time of compilation itself. There are two scopes in Go, they are:
@@ -326,6 +322,7 @@ Golang is faster than other programming languages because of its simple and effi
 
 ## 15. How can we check if the Go map contains a key?
 A map, in general, is a collection of elements grouped in key-value pairs. One key refers to one value. Maps provide faster access in terms of O(1) complexity to the values if the key is known. 
-![15Image] (https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/001/748/original/How_can_we_check_if_the_Go_map_contains_a_key.png?1637335439)
+
+![Key to Value Mapping] (https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/001/748/original/How_can_we_check_if_the_Go_map_contains_a_key.png?1637335439)
 
 
