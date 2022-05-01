@@ -137,5 +137,37 @@ Wrote slides : https://docs.google.com/presentation/d/1WVtuhszW1a7pJk109EFxMZWOG
 ## Computer Organization and Architecture 
 Read Chapter - 1 of William Stallings COA Book.
   
+## Dynamic Programming - 100DaysOfCode - Day 1
+https://leetcode.com/tag/dynamic-programming/discuss/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+
+  
+The above problem list will be followed:
+
+Problem for Day - 1 : Longest Increasing Subsequence Variant : 
+  Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/
+  
+Sample Solution for LIS:
+  ```
+  int lengthOfLIS(vector<int>& nums) {
+    int n = nums.size();
+  
+    vector<int>LIS(n+1, 1);
+    for(int i = 0; i < n; i++) {
+      for(int j = 0; j < i; j++) {
+        if(nums[i] > nums[j]) {
+          LIS[i] = max(LIS[i], 1 + LIS[j]);
+        }
+      }
+    }
+  
+    int ans = 0;
+    for(i = 0; i < n; i++) {
+      ans = max(ans, LIS[i]);
+    }
+    return ans;
+  }
+  ```
+  
+
 
 
