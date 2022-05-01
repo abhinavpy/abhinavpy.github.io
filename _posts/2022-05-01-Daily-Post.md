@@ -1,7 +1,7 @@
 ---
 title: 'Daily Blog Post 1 May 2022'
-date: 2022-04-04
-permalink: /posts/2022/04/daily-post/
+date: 2022-05-01
+permalink: /posts/2022/05/daily-post/
 tags:
   - CSS
   - ReactJS
