@@ -1,7 +1,7 @@
 ---
 title: 'RESTful API Golang 18 April 2022'
 date: 2022-04-18
-permalink: /posts/2022/04/daily-post/
+permalink: /posts/2022/04/resp-api-golang/
 tags:
   - RESTful API
   - Golang
