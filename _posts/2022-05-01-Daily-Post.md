@@ -128,5 +128,14 @@ Alongside an understanding of how user agent styles affect each box, you also ne
 
 Having content-box as the value of box-sizing means that when you set dimensions, such as a width and height, they will be applied to the content box. If you then set padding and border, these values will be added to the content box's size.
 
+## OAuth 2.0 
+YouTube Link: https://youtu.be/Aj143QiiQPY
+  
+## API Kong 
+Wrote slides : https://docs.google.com/presentation/d/1WVtuhszW1a7pJk109EFxMZWOGhMQyUvIsMSl0yP9vUU/edit?usp=sharing
+  
+## Computer Organization and Architecture 
+Read Chapter - 1 of William Stallings COA Book.
+  
 
 
