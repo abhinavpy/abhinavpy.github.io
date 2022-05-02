@@ -16,8 +16,8 @@ Finished Reading the chapter - spent 1.5 hours.
 ## Chapter 2 - DDIA
 Finished reading the first section of the chapter - spent 1 hour.
 
-## JWT Implementation in JavaScript
+## Day 2 of 100DaysOfCode for JavaScript and NodeJS - JWT Implementation in JavaScript
 Spent about 2.5 hours trying to implement JWT in JavaScript.
 
-## ReactJS
+## ReactJS - Day 2 of 100DaysOfCode
 Went through the first component. Spent about 0.5 hours on this.
