@@ -25,12 +25,12 @@ redirect_from:
 
 
 # Education
-* Master of Science, Computer Science, **Arizona State University**, 2023-2025
-* Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021
+* Master of Science, Computer Science, **Arizona State University**, 2023-2025 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Arizona_State_University_logo.svg">
+* Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/cc/NITK_Emblem.png">
 
 
 # Work experience
-### <img align="left" width="100" height="100" src="https://logowik.com/content/uploads/images/digitalai3501.jpg">
+### <img align="right" width="100" height="100" src="https://logowik.com/content/uploads/images/digitalai3501.jpg">
 **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
   * `Technologies`: <ins> Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python </ins>
