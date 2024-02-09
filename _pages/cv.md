@@ -33,17 +33,17 @@ redirect_from:
 ### **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
   * `Technologies`: <ins> Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python </ins>
-  * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
+  * **Jenkins to Kubernetes**: Engineered and deployed <ins>Kubernetes Workloads</ins> for ’Clean Tenant’ and ’Replicate Data’
   operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
   reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
-  infrastructure costs, saving the company approximately 12,000 dollars annually.
+  infrastructure costs, saving the company approximately **12,000 dollars** annually.
   * **Data Pipeline Engineering and Source Integration**: Successfully engineered and deployed comprehensive data pipelines,
   integrating dynamic sources such as GitHub, Snowflake, and New Relic, to significantly amplify business functionalities.
-  Utilized the Adapter Framework (an internal data pipeline tool) to enhance data extraction and loading processes, achieving
+  Utilized the Adapter Framework (an internal data pipeline tool) to <ins>enhance data extraction and loading processes (ETL)</ins>, achieving
   an improvement in processing efficiency across diverse origins. This strategic initiative played a key role in increasing the
   customer onboarding rate by significant percentage, leading to the addition of new key clients within a single quarter.
-  * **Streamlined AWS Lambda Build and Deployment Automation**: Orchestrated the automated construction and
-  deployment of AWS Lambda functions Conducted a meticulous evaluation of strategies for developing and deploying Lambda
+  * **Streamlined AWS Lambda Build and Deployment Automation**: Orchestrated the <ins> automated build and
+  deployment of AWS Lambda functions </ins> Conducted a meticulous evaluation of strategies for developing and deploying Lambda
   functions, pivotal in enabling email alerts and event logging from Apache Airflow. Devised a robust protocol, employing
   Docker and AWS S3, to facilitate the build and deployment of these Lambda functions. Subsequently, established an
   automated mechanism utilizing Jenkins for the seamless deployment of AWS Lambda functions.
