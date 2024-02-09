@@ -13,7 +13,7 @@ redirect_from:
 
 # Timeline
 
-| Institution/Company            | Item   |                                                              |
+| Institution/Company            | Item   |       Brief                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
 | [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science   📖                      |
 | [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer 🖥️                         |
@@ -44,7 +44,7 @@ redirect_from:
   customer onboarding rate by significant percentage, leading to the addition of new key clients within a single quarter.
   * `Streamlined AWS Lambda Build and Deployment Automation`: Orchestrated the <ins> automated build and
   deployment of AWS Lambda functions </ins> Conducted a meticulous evaluation of strategies for developing and deploying Lambda
-  functions, pivotal in enabling email alerts and event logging from Apache Airflow. Devised a robust protocol, employing
+  functions, <ins> pivotal in enabling email alerts and event logging from Apache Airflow </ins>. Devised a robust protocol, employing
   Docker and AWS S3, to facilitate the build and deployment of these Lambda functions. Subsequently, established an
   automated mechanism utilizing Jenkins for the seamless deployment of AWS Lambda functions.
   * `Application Control Plane Enhancement and Database Automation`: Wrote a <ins> database automation script </ins> as a part
@@ -54,33 +54,34 @@ redirect_from:
   variety of applications.
     
 ### **[FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)**, Software Developer Engineer, May 2021 - June 2022
-  * `Technologies`: **MySQL, Angular, NodeJS, APIs, RsJS, JavaScript**
+  * `Technologies`: <ins> MySQL, Angular, NodeJS, APIs, RsJS, JavaScript** </ins>
   * `Human Resources Management System`: Enhanced the onboarding front end by adding several functionalities to the screen, Implementation of RxJS, REGEX addon on Angular, RESTful API’s Implementation from Front to Back, Nodejs development for Services and API’s, Implementation of UI components using ngx-bootstrap, Implementation of UI/UX components using prime-ng.
     
 ### **[Standard Chartered GBS Chennai, India](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)**, **Summer 2020: Summer Research Intern, May 2020 - July 2020**
-  * `Technologies`: **NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy.**
+  * `Technologies`: <ins> NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy. </ins>
   * Worked on a Natural Language Processing Project to Organize Banking data provided: Worked with multiple teams to gather real time banking data and helped organize them to analyze business transactions needed for the analysis. Used plotting software to visualize data in a convenient manner.
 
 ### **Summer 2019: Summer Research Intern, May 2019 - August 2019**
   * **[OSPF Drug Discovery Lab, NIAS, Indian Institute of Science Bangalore, India](https://www.ospfound.org/about.html)**
-  * **Mentor: Dr Jaleel UC (Principal Scientist), OSPF Drug Discovery Lab, NIAS, IISc. Deep Learning Project at OSPF Lab in collaboration with TDU, Bangalore.**
-  * `Unsupervised Deep Learning Analysis with Kohonen Self-Organizing Maps`: Exploration of Kohonen Self-Organizing Maps for Medical Data Insights Engaged in the application of Unsupervised Deep Learning methods to decipher intricate relationships among diagnostic parameters within a medical dataset. Specialized in **Kohonen self-organizing maps**, a neural network architecture renowned for competitive learning, enabling the unsupervised clustering of data. Acquired proficiency in **Vector Quantization** and other competitive learning techniques, pertinent to the realm of unsupervised learning. Employed **R** as the principal tool to actualize self-organizing Kohonen maps, subsequently visualizing multifaceted components of the derived map.
+  * <ins> Mentor: Dr Jaleel UC (Principal Scientist), OSPF Drug Discovery Lab, NIAS, IISc. Deep Learning Project at OSPF Lab in collaboration with TDU, Bangalore. </ins>
+  * `Unsupervised Deep Learning Analysis with Kohonen Self-Organizing Maps`: Exploration of Kohonen Self-Organizing Maps for Medical Data Insights Engaged in the application of Unsupervised Deep Learning methods to decipher intricate relationships among diagnostic parameters within a medical dataset. Specialized in <ins>Kohonen self-organizing maps</ins>, a neural network architecture renowned for competitive learning, enabling the unsupervised clustering of data. Acquired proficiency in <ins>Vector Quantization</ins> and other competitive learning techniques, pertinent to the realm of unsupervised learning. Employed <ins>R</ins> as the principal tool to actualize self-organizing Kohonen maps, subsequently visualizing multifaceted components of the derived map.
   * `Academic Conference Volunteering`: Was part of the organising committee of the United Kingdom-India Meet on Emerging Innovations in AMR (Anti-Microbial Research) held on 7th June 2019 at National Institue of Advanced Studies, IISc.
 
 ### **Fall 2018: Research Associate, August 2018 - July 2019**
   * **[Computer Science Department, National Institute of Technology, Karnataka Surathkal, India](https://cse.nitk.ac.in/)** 
   * `Cloud Computing, Concurrent Programming Parallel programming Lab`.: Advised by Christina Joseph and John M, PhD Scholars CSE Dept. NITK.
-  * `Concurrency Analysis between Golang and Java`: Successfully presented paper at <ins>2020 5th International Conference on Computing, Communication and Security (ICCCS)</ins>: [Click Here](https://ieeexplore.ieee.org/document/9277498) . Within this study, we undertake an in-depth evaluation of the concurrency attributes inherent in Go and Java programming languages. This comprehensive analysis encompasses compile time, run time, binary sizes, as well as the distinctive concurrency capabilities of each language. Our investigation involves the empirical exploration of **matrix multiplication and PageRank algorithms**, serving as experimental grounds for rigorous comparison. By building upon the foundation laid by N Togashi and V Klyuev in their 2014 paper, we propose an enriched methodology, introducing advanced algorithms such as PageRank to augment the scope and depth of testing and analysis. 
+  * `Concurrency Analysis between Golang and Java`: Successfully presented paper at <ins>2020 5th International Conference on Computing, Communication and Security (ICCCS)</ins>: [Click Here](https://ieeexplore.ieee.org/document/9277498) . Within this study, we undertake an in-depth evaluation of the concurrency attributes inherent in Go and Java programming languages. This comprehensive analysis encompasses compile time, run time, binary sizes, as well as the distinctive concurrency capabilities of each language. Our investigation involves the empirical exploration of <ins>matrix multiplication and PageRank algorithms</ins>, serving as experimental grounds for rigorous comparison. By building upon the foundation laid by N Togashi and V Klyuev in their 2014 paper, we propose an enriched methodology, introducing advanced algorithms such as PageRank to augment the scope and depth of testing and analysis. 
 
 Skills
 ======
-* Programming Languages: C, C++, Java, Python, Go, JavaScript, R
+* Programming Languages: `C, C++, Java, Python, Go, JavaScript, R`
 * Frameworks/Tools:
-  * Spring Boot
-  * Docker, Kubernetes
-  * Apache Kafka, Spark, Airflow.
-  * PyTorch, Tensorflow, Numpy, Pandas, Matplotlib
-  * Express, Node.js, Angular, React.js
+  * Programming Frameworks: `Spring Boot`
+  * DevOps: `Docker, Kubernetes, Linux`
+  * Data Engineering: `Apache Kafka, Spark, Airflow`
+  * Machine Learning: `PyTorch, Tensorflow, Numpy, Pandas, Matplotlib`
+  * Web Developement: `Express, Node.js, Angular, React.js`
+  * Cloud: `AWS`
 
 Publications
 ======
