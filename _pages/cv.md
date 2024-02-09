@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+### Timeline
+
+| Institution/Company            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science                         |
+| [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer :computer:                         |
+| [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021   | Briefly worked on people management software. :cop:                          |
+
+
 # Education
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025
 * Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021
