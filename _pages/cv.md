@@ -40,13 +40,11 @@ Work experience
   adding several forms and other features tailored to distinct customer categories and accounts, expanding their access to a
   variety of applications.
     
-* **Software Developer Engineer May 2021 - June 2022**
-  * **FlexiEle Consulting Services Gurgaon, India**
-  * **Technologies: MySQL, Angular, NodeJS, APIs, RsJS, JavaScript**
+* **FlexiEle Consulting Services Gurgaon, India**, Software Developer Engineer May 2021 - June 2022
+  * Technologies: **MySQL, Angular, NodeJS, APIs, RsJS, JavaScript**
   * **Human Resources Management System**: Enhanced the onboarding front end by adding several functionalities to the screen, Implementation of RxJS, REGEX addon on Angular, RESTful API’s Implementation from Front to Back, Nodejs development for Services and API’s, Implementation of UI components using ngx-bootstrap, Implementation of UI/UX components using prime-ng.
     
-* **Summer 2020: Summer Research Intern May 2020 - July 2020**
-  * **Standard Chartered GBS Chennai, India**
+* **Standard Chartered GBS Chennai, India**, **Summer 2020: Summer Research Intern May 2020 - July 2020**
   * Technologies: **NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy.**
   * Worked on a Natural Language Processing Project to Organize Banking data provided: Worked with multiple teams to gather real time banking data and helped organize them to analyze business transactions needed for the analysis. Used plotting software to visualize data in a convenient manner.
 
