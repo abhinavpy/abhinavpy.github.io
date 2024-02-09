@@ -64,7 +64,7 @@ redirect_from:
   adding several forms and other features tailored to distinct customer categories and accounts, expanding their access to a
   variety of applications.
     
-### <img align="right" width="100" height="100" src="https://lh3.googleusercontent.com/p/AF1QipMM1bhB3MvqIzPpEtuMFiw6sJWX6MSRKG5xlvEX=s1360-w1360-h1020"> **[FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)**, Software Developer Engineer, May 2021 - June 2022
+### <img align="right" width="100" height="100" src="https://media.licdn.com/dms/image/C4D0BAQFgT8yW4wmGyw/company-logo_200_200/0/1634537911406/flexiele_consulting_services_pvt_ltd_logo?e=2147483647&v=beta&t=hhIyIPdqIvLKivRMo1c9p6i7r_iakXAiR-RafSAxIRk"> **[FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)**, Software Developer Engineer, May 2021 - June 2022
   * `Technologies`: <ins> MySQL, Angular, NodeJS, APIs, RsJS, JavaScript** </ins>
   * `Human Resources Management System`: Enhanced the onboarding front end by adding several functionalities to the screen, Implementation of RxJS, REGEX addon on Angular, RESTful API’s Implementation from Front to Back, Nodejs development for Services and API’s, Implementation of UI components using ngx-bootstrap, Implementation of UI/UX components using prime-ng.
     
