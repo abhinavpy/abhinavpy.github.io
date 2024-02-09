@@ -11,25 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science Engineering, National Institute of Technology Karnataka, Surathkal, 2017-2021
-* M.S. in Computer Science, Arizona State University, 2023-2025
+* Master of Science, Computer Science, ==Arizona State University==, 2023-2025
+* Bachelors in Technology, Computer Science Engineering, ==National Institute of Technology Karnataka, Surathkal==, 2017-2021
+
 
 Work experience
 ======
 * Software Development Engineer Jul 2022 - Jul 2023
   * Digital.ai Bangalore, India
-  * Technologies: Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
-  Amazon Web Services, Spring Boot, Java, Python
-  * Jenkins to Kubernetes: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
+  * Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
+  Amazon Web Services, Spring Boot, Java, Python**
+  * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
   operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
   reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
-  infrastructure costs, saving the company approximately 12,000 dollars annually.
-  * Data Pipeline Engineering and Source Integration: Successfully engineered and deployed comprehensive data pipelines,
+  infrastructure costs, saving the company approximately ==12,000== dollars annually.
+  * **Data Pipeline Engineering and Source Integration**: Successfully engineered and deployed comprehensive data pipelines,
   integrating dynamic sources such as GitHub, Snowflake, and New Relic, to significantly amplify business functionalities.
   Utilized the Adapter Framework (an internal data pipeline tool) to enhance data extraction and loading processes, achieving
   an improvement in processing efficiency across diverse origins. This strategic initiative played a key role in increasing the
   customer onboarding rate by significant percentage, leading to the addition of new key clients within a single quarter.
-  * Streamlined AWS Lambda Build and Deployment Automation: Orchestrated the automated construction and
+  * **Streamlined AWS Lambda Build and Deployment Automation**: Orchestrated the automated construction and
   deployment of AWS Lambda functions Conducted a meticulous evaluation of strategies for developing and deploying Lambda
   functions, pivotal in enabling email alerts and event logging from Apache Airflow. Devised a robust protocol, employing
   Docker and AWS S3, to facilitate the build and deployment of these Lambda functions. Subsequently, established an
@@ -63,12 +64,13 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C, C++, Java, Python, Go, JavaScript, R
+* Frameworks/Tools:
+  * Spring Boot
+  * Docker, Kubernetes
+  * Apache Kafka, Spark, Airflow.
+  * PyTorch, Tensorflow, Numpy, Pandas, Matplotlib
+  * Express, Node.js, Angular, React.js
 
 Publications
 ======
@@ -88,9 +90,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* 
 
 Academic and Personal Projects
 ======
