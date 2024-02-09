@@ -10,13 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025
 * Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021
 
 
 ## Work experience
-======
 ### **Digital.ai Bangalore, India**, Software Development Engineer Jul 2022 - Jul 2023
   * Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python**
