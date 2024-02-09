@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,14 +17,13 @@ Education
 
 Work experience
 ======
-* **Software Development Engineer** Jul 2022 - Jul 2023
-  * **Digital.ai Bangalore, India**
+* **Digital.ai Bangalore, India**, <ul>Software Development Engineer</ul> Jul 2022 - Jul 2023
   * Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python**
   * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
   operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
   reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
-  infrastructure costs, saving the company approximately ==12,000== dollars annually.
+  infrastructure costs, saving the company approximately 12,000 dollars annually.
   * **Data Pipeline Engineering and Source Integration**: Successfully engineered and deployed comprehensive data pipelines,
   integrating dynamic sources such as GitHub, Snowflake, and New Relic, to significantly amplify business functionalities.
   Utilized the Adapter Framework (an internal data pipeline tool) to enhance data extraction and loading processes, achieving
@@ -96,9 +95,10 @@ Service
 
 Academic and Personal Projects
 ======
-• Home Made Food Delivery App: Developed a full functioning Android App that can be used as a food order-delivery system,
+* Home Made Food Delivery App: Developed a full functioning Android App that can be used as a food order-delivery system,
 as a part of project assigned by the Software Engineering Lab Course.
-• Graph Algorithms to Maze Graphs: Applying Graph Algorithms to solve Maze problems. The website that hosts this is being
+* Graph Algorithms to Maze Graphs: Applying Graph Algorithms to solve Maze problems. The website that hosts this is being
 built on Ruby on Rails. We will be using OpenGL for the graphics.
-• SRRIP Cache Eviction Algorithm: Implemented Static Rereference Interval Prediction algorithm as a part of Cache
+* SRRIP Cache Eviction Algorithm: Implemented Static Rereference Interval Prediction algorithm as a part of Cache
 Simulator Project as a part the Computer Architecture/ Systems Programming course.
+* 
