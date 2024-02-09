@@ -31,8 +31,8 @@ redirect_from:
 
 # Work experience
 ### **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
-  * Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
-  Amazon Web Services, Spring Boot, Java, Python** {: .notice}
+  * `Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
+  Amazon Web Services, Spring Boot, Java, Python**`
   * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
   operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
   reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
