@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **Digital.ai Bangalore, India**, <u>Software Development Engineer</u> Jul 2022 - Jul 2023
+* **Digital.ai Bangalore, India**, <mark>Software Development Engineer</mark> Jul 2022 - Jul 2023
   * Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python**
   * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
