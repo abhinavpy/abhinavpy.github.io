@@ -26,9 +26,17 @@ redirect_from:
 
 # Education
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Arizona_State_University_logo.svg">
+  * Courses:
+    * Knowledge Representation and Reasoning
+    * Data Visualization
+    * Distributed Database Systems
+    * Information Assurance and Security
+    * Multimedia and Web Databases
+    * Software Requirements and Specifications
 
 
 * Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/cc/NITK_Emblem.png">
+  * Activities and societies: Executive Member at IEEE NITK (Taught Freshmen Linux Terminal Commands and Linux Installation Guide) and Media and Publicity Head at Web Enthusiasts' Club NITK (Conducted Several Tech and Programming Events).
 
 
 # Work experience
