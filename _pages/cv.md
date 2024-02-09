@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-### Timeline
+
+
+# Timeline
 
 | Institution/Company            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science                         |
-| [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer :computer:                         |
-| [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021   | Briefly worked on people management software. :cop:                          |
+| [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science   📖                      |
+| [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer 🖥️                         |
+| [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021   | Briefly worked on people management software. 👮                          |
 | [Standard Chartered GBS](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)  | 2020 | Summer Intern ☀️|
 | [OSPF, NIAS, IISc, Bangalore](https://www.ospfound.org/about.html) | 2019 | Machine Learning on Medical Datasets 💊|
+| [National Institute of Technology, Karnataka](https://cse.nitk.ac.in/) | 2017 - 2021 | Bachelors Degree in Computer Science Engineering 💻 |
+
+
 
 # Education
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025
@@ -27,7 +32,7 @@ redirect_from:
 # Work experience
 ### **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
   * Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
-  Amazon Web Services, Spring Boot, Java, Python**
+  Amazon Web Services, Spring Boot, Java, Python** {: .notice}
   * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
   operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
   reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
