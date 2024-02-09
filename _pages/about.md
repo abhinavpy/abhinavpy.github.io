@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abhinav Prasad Yasaswi"
+title: "Meet Abhinav!"
 excerpt: "An individual who's base motivation is to be curious and inquisitive about anything and everything interesting that is happenning in this world and someone that tries to constantly evolve to better himself!"
 author_profile: true
 redirect_from: 
