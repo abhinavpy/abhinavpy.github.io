@@ -16,7 +16,8 @@ redirect_from:
 | [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science                         |
 | [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer :computer:                         |
 | [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021   | Briefly worked on people management software. :cop:                          |
-
+| [Standard Chartered GBS](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)  | 2020 | Summer Intern ☀️|
+| [OSPF, NIAS, IISc, Bangalore](https://www.ospfound.org/about.html) | 2019 | Machine Learning on Medical Datasets 💊|
 
 # Education
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025
