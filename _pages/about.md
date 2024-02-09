@@ -12,7 +12,7 @@ Welcome to my page! Here, you'll discover insights into both my professional and
 
 The story of my life so far!
 ======
-I grew up in Chennai, a bustling city in southern India. As a little kid, I was a handful, always causing mischief. I'd find joy in surprising my busy mom, even if it meant dropping things from high places just to get her attention. My mom juggled taking care of me and my sibling along with all the household chores.
+I was born in Chennai, and grew up in Bangalore, both bustling cities in southern India. As a little kid, I was a handful, always causing mischief. I'd find joy in surprising my busy mom, even if it meant dropping things from high places just to get her attention. My mom juggled taking care of me and my sibling along with all the household chores.
 
 We moved to Bangalore when I was around 3 or 4 because of my dad's job. School became a bigger part of my life, and I'd cry when my mom dropped me off at school first. But I was a good student and got along well with my teachers. I was a good student throughout my school years and engaged in extra curricular activities like Art, Indian Classical Music, Table Tennis and Soccer. I was part of the doubles team that won the Inter-School Table Tennis competition in 2013. I was also amongst the *100 students* from my state (out of approx 100,000 students) that qualified for **NTSE (National Talent Search Examination)** stage 2 in the year 2015. I could solve a **Rubik's cube** in less than **20 seconds** in the year 2014.
 
