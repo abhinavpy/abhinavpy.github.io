@@ -30,7 +30,7 @@ redirect_from:
 
 
 # Work experience
-### <img align="right" width="100" height="100" src="https://media.tenor.com/images/6a136e1c2d7b30298a5b657348097a60/tenor.gif">
+### <img align="right" width="100" height="100" src="https://logowik.com/content/uploads/images/digitalai3501.jpg">
 **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
   * `Technologies`: <ins> Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python </ins>
