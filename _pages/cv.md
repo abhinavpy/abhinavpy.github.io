@@ -47,9 +47,9 @@ redirect_from:
   functions, pivotal in enabling email alerts and event logging from Apache Airflow. Devised a robust protocol, employing
   Docker and AWS S3, to facilitate the build and deployment of these Lambda functions. Subsequently, established an
   automated mechanism utilizing Jenkins for the seamless deployment of AWS Lambda functions.
-  * `Application Control Plane Enhancement and Database Automation`: Wrote a database automation script as a part
+  * `Application Control Plane Enhancement and Database Automation`: Wrote a <ins> database automation script </ins> as a part
   of the ACP. Streamlined and automated diverse database functions within the customer Single Sign-On ecosystem.
-  Completely revamped the front end of the Application Control Plane by rebranding it from scratch and optimizing it by
+  Completely <ins> revamped the front end </ins> of the Application Control Plane by rebranding it from scratch and optimizing it by
   adding several forms and other features tailored to distinct customer categories and accounts, expanding their access to a
   variety of applications.
     
@@ -58,7 +58,7 @@ redirect_from:
   * `Human Resources Management System`: Enhanced the onboarding front end by adding several functionalities to the screen, Implementation of RxJS, REGEX addon on Angular, RESTful API’s Implementation from Front to Back, Nodejs development for Services and API’s, Implementation of UI components using ngx-bootstrap, Implementation of UI/UX components using prime-ng.
     
 ### **[Standard Chartered GBS Chennai, India](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)**, **Summer 2020: Summer Research Intern, May 2020 - July 2020**
-  * `Technologies`: `**NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy.**`
+  * `Technologies`: **NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy.**
   * Worked on a Natural Language Processing Project to Organize Banking data provided: Worked with multiple teams to gather real time banking data and helped organize them to analyze business transactions needed for the analysis. Used plotting software to visualize data in a convenient manner.
 
 ### **Summer 2019: Summer Research Intern, May 2019 - August 2019**
