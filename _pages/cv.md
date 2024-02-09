@@ -25,7 +25,7 @@ redirect_from:
 
 
 # Education
-* Master of Science, Computer Science, **Arizona State University**, 2023-2025 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Arizona_State_University_logo.svg">
+* Master of Science, Computer Science, **Arizona State University**, 2023-2025 <img align="right" width="100" height="100" src="https://1000logos.net/wp-content/uploads/2021/04/ASU-logo.png">
   * Courses:
     * Knowledge Representation and Reasoning
     * Data Visualization
