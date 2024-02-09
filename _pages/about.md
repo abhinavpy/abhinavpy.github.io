@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! Here you will know both my professional and personal interests, activities, events in my life and how I have reflected on my life so far and how I would want to live my life in the near and far future. Although I'd always want to be flexible and keep changing (as Bruce Lee says "Be like water"), there are certain things in my life that I would to keep constant and inflexible like the morals and values imbibed in me by my parents and the values that I have acquired over my approximately 25 years of living on this planet. In my younger days, I had always thought hard work and self-sacrifice were the highest of virtues and these virtues would take you far and give you success in life. Although they are very important virtues, after my years in college and my ups and downs in corporate life I've realized that it is bravery and integrity that are the most important virtues a man can acquire and hold on to for the rest of his life. 
+Welcome to my page! Here, you'll discover insights into both my professional and personal interests, along with updates on activities and events in my life. I also delve into reflections on my past experiences and aspirations for the future. While I strive to remain adaptable, echoing Bruce Lee's philosophy of "being like water," there are core principles I hold dear and unwavering, such as the morals instilled by my parents and the values I've cultivated over my 25 years on this planet. In my youth, I esteemed hard work and self-sacrifice as paramount virtues, believing they guaranteed success in life. However, through my college years and corporate endeavors, I've come to recognize that bravery and integrity are the cornerstones of a fulfilling existence.
 
+A brief of my technical experience!
+======
+I 
 
-
-A very long story of my life so far!
+A long story of my life so far!
 ======
 I grew up in Chennai, a bustling city in southern India. As a little kid, I was a handful, always causing mischief. I'd find joy in surprising my busy mom, even if it meant dropping things from high places just to get her attention. My mom juggled taking care of me and my sibling along with all the household chores.
 
