@@ -31,8 +31,8 @@ redirect_from:
 
 # Work experience
 ### **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
-  * `Technologies: **Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
-  Amazon Web Services, Spring Boot, Java, Python**`
+  * Technologies: `Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
+  Amazon Web Services, Spring Boot, Java, Python`
   * **Jenkins to Kubernetes**: Engineered and deployed Kubernetes Workloads for ’Clean Tenant’ and ’Replicate Data’
   operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
   reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
@@ -54,11 +54,11 @@ redirect_from:
   variety of applications.
     
 ### **[FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)**, Software Developer Engineer, May 2021 - June 2022
-  * Technologies: **MySQL, Angular, NodeJS, APIs, RsJS, JavaScript**
+  * Technologies: `**MySQL, Angular, NodeJS, APIs, RsJS, JavaScript**`
   * **Human Resources Management System**: Enhanced the onboarding front end by adding several functionalities to the screen, Implementation of RxJS, REGEX addon on Angular, RESTful API’s Implementation from Front to Back, Nodejs development for Services and API’s, Implementation of UI components using ngx-bootstrap, Implementation of UI/UX components using prime-ng.
     
 ### **[Standard Chartered GBS Chennai, India](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)**, **Summer 2020: Summer Research Intern, May 2020 - July 2020**
-  * Technologies: **NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy.**
+  * Technologies: `**NLTK library, Python, PyTorch, Pandas, Matplotlib, Numpy.**`
   * Worked on a Natural Language Processing Project to Organize Banking data provided: Worked with multiple teams to gather real time banking data and helped organize them to analyze business transactions needed for the analysis. Used plotting software to visualize data in a convenient manner.
 
 ### **Summer 2019: Summer Research Intern, May 2019 - August 2019**
