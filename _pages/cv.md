@@ -26,6 +26,8 @@ redirect_from:
 
 # Education
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Arizona_State_University_logo.svg">
+
+
 * Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/cc/NITK_Emblem.png">
 
 
